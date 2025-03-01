@@ -1,0 +1,10 @@
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\bin\Debug\TestGibHubAnhTuyenNhom2.exe.config
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\bin\Debug\TestGibHubAnhTuyenNhom2.exe
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\bin\Debug\TestGibHubAnhTuyenNhom2.pdb
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\obj\Debug\TestGibHubAnhTuyenNhom2.csproj.AssemblyReference.cache
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\obj\Debug\TestGibHubAnhTuyenNhom2.Form1.resources
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\obj\Debug\TestGibHubAnhTuyenNhom2.Properties.Resources.resources
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\obj\Debug\TestGibHubAnhTuyenNhom2.csproj.GenerateResource.cache
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\obj\Debug\TestGibHubAnhTuyenNhom2.csproj.CoreCompileInputs.cache
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\obj\Debug\TestGibHubAnhTuyenNhom2.exe
+D:\TestGibHubAnhTuyenNhom2\TestGibHubAnhTuyenNhom2\obj\Debug\TestGibHubAnhTuyenNhom2.pdb
